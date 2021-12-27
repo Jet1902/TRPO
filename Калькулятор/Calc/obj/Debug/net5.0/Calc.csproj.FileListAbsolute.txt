@@ -14,3 +14,19 @@ D:\Study\Третий курс\ТР ПО Бахаева\Калькулятор\C
 D:\Study\Третий курс\ТР ПО Бахаева\Калькулятор\Calc\obj\Debug\net5.0\ref\Calc.dll
 D:\Study\Третий курс\ТР ПО Бахаева\Калькулятор\Calc\obj\Debug\net5.0\Calc.pdb
 D:\Study\Третий курс\ТР ПО Бахаева\Калькулятор\Calc\obj\Debug\net5.0\Calc.genruntimeconfig.cache
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\Calc.exe
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\Calc.deps.json
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\Calc.runtimeconfig.json
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\Calc.runtimeconfig.dev.json
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\Calc.dll
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\ref\Calc.dll
+D:\Github\Repository\TRPO\Калькулятор\Calc\bin\Debug\net5.0\Calc.pdb
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.csproj.AssemblyReference.cache
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.AssemblyInfoInputs.cache
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.AssemblyInfo.cs
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.csproj.CoreCompileInputs.cache
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.dll
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\ref\Calc.dll
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.pdb
+D:\Github\Repository\TRPO\Калькулятор\Calc\obj\Debug\net5.0\Calc.genruntimeconfig.cache

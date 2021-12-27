@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHAaWiRqqdBLiAaSnFQInO3EqDQmKzqla7c1PsDcsJHF09dC2/QloCJIKfcwg4Y9nNii4OzVq4LN1ct2MUiJhw==",
+  "dgSpecHash": "JNZV9hRcBsSArfmzWlorBrBVmwEYyVXPMnIq4HfL/JA0d4OvTQz+tww7gv6rL3Q0Ak76HAyUpko8Lss20TOkIQ==",
   "success": true,
-  "projectFilePath": "D:\\Study\\Третий курс\\ТР ПО Бахаева\\Калькулятор\\Calc\\Calc.csproj",
+  "projectFilePath": "D:\\Github\\Repository\\TRPO\\Калькулятор\\Calc\\Calc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

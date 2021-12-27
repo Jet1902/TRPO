@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Третий курс\\ТР ПО Бахаева\\Калькулятор\\Calc\\Calc.csproj",
+      "projectUniqueName": "D:\\Github\\Repository\\TRPO\\Калькулятор\\Calc\\Calc.csproj",
       "projectName": "Calc",
-      "projectPath": "D:\\Study\\Третий курс\\ТР ПО Бахаева\\Калькулятор\\Calc\\Calc.csproj",
+      "projectPath": "D:\\Github\\Repository\\TRPO\\Калькулятор\\Calc\\Calc.csproj",
       "packagesPath": "C:\\Users\\JetSi\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Третий курс\\ТР ПО Бахаева\\Калькулятор\\Calc\\obj\\",
+      "outputPath": "D:\\Github\\Repository\\TRPO\\Калькулятор\\Calc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
